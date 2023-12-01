@@ -1,0 +1,32 @@
+td {
+	border: 1px solid lightgray; 
+}
+
+th {
+	border: 1px solid lightblue;
+    margin:auto; 
+    vertical-align:top;
+    padding: 10px;
+    
+}
+table {border-collapse:collapse;
+    margin:auto;
+    width: 90%;
+    width: auto;
+    caption-side:top;
+    color:green;
+}
+    
+
+.masodik{
+    background-color: lightgrey;
+}
+.nulladik{
+    background-color: lightblue;
+    text-align: center;
+}
+
+caption{ 
+    font-size: 20px;
+}
+
